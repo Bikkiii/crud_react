@@ -7,8 +7,8 @@
 
 .single-item .btn {
   cursor: pointer;
-  color: #fff;
-  background: #06b6d4;
+  color: black;
+  background: cyan;
   border: transparent;
   border-radius: 0.25rem;
   padding: 0.375rem 0.75rem;
@@ -16,11 +16,11 @@
 }
 
 .single-item .btn:hover {
-  background: #0e7490;
+  background: #06b6d4;
 }
 
 .single-item .remove-btn {
-  background: #222;
+  background: red;
 }
 
 .single-item .remove-btn:hover {
